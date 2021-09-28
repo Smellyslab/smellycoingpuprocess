@@ -5,4 +5,4 @@
 ``python3 run.py --gpu_usage <max gpu usage amount int without <> default 5%> --mem_usage <max gpu memory usage amount int without <> default 10%>``
 
 
-``python3 run.py --gpu_usage 100 --mem_usage 100 --cmd node <smellycoin node js run file. do not include <>>
+``python3 run.py --gpu_usage 100 --mem_usage 100 --cmd node <smellycoin node js run file. do not include <>>``
